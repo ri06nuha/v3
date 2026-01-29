@@ -1,0 +1,5 @@
+std_msgs/Header header
+geographic_msgs/GeoPoint gps_position
+geometry_msgs/Point local_position
+float32 altitude_above_ground
+bool is_valid
